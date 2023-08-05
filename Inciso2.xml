@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope">
+<sop:Header xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope">
+</sop:Header>
+<soapenv:Body>
+	<cardInformation xmlns="https://servicio.inventado.com/Tarjetas">
+		<card>
+			<!--seguramente deben de existir politicas para el traslado de informacion de tarjetas de credico, por efectos de la prueba las dejo como atributos normales -->
+			<cardNumber>23232212134</cardNumber>
+			<expirationDate>08/23</expirationDate>
+			<cvv>123</cvv>
+			<name>Benito Castro</name>
+		</card>
+		<location>
+			<latitude>20.4504067</latitude>
+			<longitude>-86.8651802</longitude>
+		</location>
+		<idClient>4321234</idClient>
+		<dateTime>2023-08-05T14:32:10</dateTime>
+	</cardInformation>
+</soapenv:Body>
+</soapenv:Envelope>	
+
