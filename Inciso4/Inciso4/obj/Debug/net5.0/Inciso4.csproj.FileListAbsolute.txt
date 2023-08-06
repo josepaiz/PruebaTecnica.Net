@@ -1,0 +1,46 @@
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.exe
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.deps.json
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.runtimeconfig.json
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.runtimeconfig.dev.json
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\ref\Inciso4.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.pdb
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.csproj.AssemblyReference.cache
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.AssemblyInfoInputs.cache
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.AssemblyInfo.cs
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.csproj.CoreCompileInputs.cache
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\ref\Inciso4.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.pdb
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.genruntimeconfig.cache
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AARON BRAN\source\repos\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.csproj.CopyComplete
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.exe
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.deps.json
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.runtimeconfig.json
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.runtimeconfig.dev.json
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\ref\Inciso4.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\Inciso4.pdb
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.csproj.AssemblyReference.cache
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.AssemblyInfoInputs.cache
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.AssemblyInfo.cs
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.csproj.CoreCompileInputs.cache
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.csproj.CopyComplete
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\ref\Inciso4.dll
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.pdb
+D:\GitHub\PruebaTecnica.Net\Inciso4\Inciso4\obj\Debug\net5.0\Inciso4.genruntimeconfig.cache
